@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "code": "PL",
+      "currencyCodes": ["EUR"],
+      "name": "Poland",
+      "wikiDataId": "Q237",
+      "latitude": "52.232855",
+      "longitude": "20.9211126"
+    },
+    {
+      "code": "PL",
+      "currencyCodes": ["EUR"],
+      "name": "Poland",
+      "wikiDataId": "Q237",
+      "latitude": "53",
+      "longitude": "22"
+    }
+  ]
+}
